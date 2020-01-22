@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=bqtqltqcQhw
 Programming Learning Sites
 https://www.hackerrank.com/
 https://codefights.com/
+
+First Python Project
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
