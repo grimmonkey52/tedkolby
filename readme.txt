@@ -18,3 +18,5 @@ https://codefights.com/
 
 First Python Project
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://projectworlds.in/free-projects/machine-learning-projects-with-source-code/predict-stock-prices-machine-learning-projects/
+
