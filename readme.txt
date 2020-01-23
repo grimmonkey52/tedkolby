@@ -20,3 +20,5 @@ First Python Project
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 https://projectworlds.in/free-projects/machine-learning-projects-with-source-code/predict-stock-prices-machine-learning-projects/
 
+Youtube:
+https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
